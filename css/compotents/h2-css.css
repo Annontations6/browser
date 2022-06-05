@@ -1,0 +1,44 @@
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkorange;
+}
+
+h2.orange {
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+}
+
+h2.yellow {
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+}
+
+h2.blue {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+h2.absolute {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(215, 221, 27, 0.95);
+}
+
+h2.red {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+h2.magenta {
+    font-family: Arial, Helvetica, sans-serif;
+    color: magenta;
+}
+
+h2.mod {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(7, 163, 240);
+}
+
+h2.unmod {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(3, 107, 158);
+}
